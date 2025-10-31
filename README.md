@@ -23,8 +23,6 @@
 <div align="center">
   
 ![GitHub stars](https://img.shields.io/github/stars/alexk218/tagify?style=social)
-![GitHub forks](https://img.shields.io/github/forks/alexk218/tagify?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/alexk218/tagify?style=social)
 ![GitHub release](https://img.shields.io/github/v/release/alexk218/tagify)
 
 </div> 
