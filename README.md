@@ -16,7 +16,7 @@
 ## Currently Building...
 **[Tagify](https://github.com/alexk218/tagify)** - A powerful song tagger and music manager for Spotify within the Spotify desktop client
 - Organize your Spotify library with custom tags, ratings, and energy levels
-- 1000+ active users
+- 2000+ active users
 
 <div align="center">
   
